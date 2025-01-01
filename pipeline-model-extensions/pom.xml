@@ -33,7 +33,6 @@
 
   <groupId>org.jenkinsci.plugins</groupId>
   <artifactId>pipeline-model-extensions</artifactId>
-  <packaging>hpi</packaging>
   <name>Pipeline: Declarative Extension Points API</name>
   <description>APIs for extension points used in Declarative Pipelines</description>
   <url>https://github.com/jenkinsci/pipeline-model-definition-plugin</url>

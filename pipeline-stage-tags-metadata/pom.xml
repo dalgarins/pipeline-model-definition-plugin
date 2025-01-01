@@ -32,7 +32,6 @@
   </parent>
 
   <artifactId>pipeline-stage-tags-metadata</artifactId>
-  <packaging>hpi</packaging>
   <name>Pipeline: Stage Tags Metadata</name>
   <description>Library plugin for Pipeline stage tag metadata</description>
   <url>https://github.com/jenkinsci/pipeline-model-definition-plugin</url>

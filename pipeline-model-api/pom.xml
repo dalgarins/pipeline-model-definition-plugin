@@ -33,7 +33,6 @@
 
   <groupId>org.jenkinsci.plugins</groupId>
   <artifactId>pipeline-model-api</artifactId>
-  <packaging>hpi</packaging>
   <name>Pipeline: Model API</name>
   <description>Model API for Declarative Pipeline</description>
   <url>https://github.com/jenkinsci/pipeline-model-definition-plugin</url>

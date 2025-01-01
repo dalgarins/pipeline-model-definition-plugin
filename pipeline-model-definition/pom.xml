@@ -33,7 +33,6 @@
 
   <groupId>org.jenkinsci.plugins</groupId>
   <artifactId>pipeline-model-definition</artifactId>
-  <packaging>hpi</packaging>
   <name>Pipeline: Declarative</name>
   <description>An opinionated, declarative Pipeline</description>
   <url>https://github.com/jenkinsci/pipeline-model-definition-plugin</url>
