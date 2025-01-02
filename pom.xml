@@ -125,7 +125,7 @@
         <artifactId>maven-release-plugin</artifactId>
         <configuration>
           <!-- keep the tag names aligned with previous releases -->
-          <tagNameFormat>pipeline-model-definition-@{project.version}</tagNameFormat>
+          <tagNameFormat>pipeline-model-definition-2.2218.v56d0cda_37c72</tagNameFormat>
         </configuration>
       </plugin>
     </plugins>
