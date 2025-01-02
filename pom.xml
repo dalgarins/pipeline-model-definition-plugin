@@ -73,6 +73,12 @@
   <dependencyManagement>
     <dependencies>
       <dependency>
+        <groupId>org.jenkins-ci.main</groupId>
+        <artifactId>jenkins-war</artifactId>
+        <classifier>executable-war</classifier>
+        <version>2.440.2</version> <!-- Cambia a una versión válida -->
+      </dependency>
+      <dependency>
         <groupId>io.jenkins.tools.bom</groupId>
         <artifactId>bom-${jenkins.baseline}.x</artifactId>
         <version>3358.vea_fa_1f41504d</version>
