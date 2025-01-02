@@ -39,14 +39,6 @@
 
   <build>
     <plugins>
-      <plugin>
-        <groupId>org.jenkins-ci.tools</groupId>
-        <artifactId>maven-hpi-plugin</artifactId>
-        <extensions>true</extensions>
-        <configuration>
-          <compatibleSinceVersion>1.2-beta-4</compatibleSinceVersion>
-        </configuration>
-      </plugin>
     </plugins>
   </build>
   

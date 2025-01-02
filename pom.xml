@@ -80,11 +80,6 @@
         <type>pom</type>
       </dependency>
       <dependency>
-        <groupId>org.jenkins-ci.main</groupId>
-        <artifactId>jenkins-test-harness-tools</artifactId>
-        <version>2.2</version>
-      </dependency>
-      <dependency>
         <groupId>com.github.java-json-tools</groupId>
         <artifactId>json-schema-validator</artifactId>
         <version>2.2.14</version>
