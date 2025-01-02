@@ -64,7 +64,7 @@
 
 
   <modules>
-    <module>pipeline-stage-tags-metadata</module>
+    <!--<module>pipeline-stage-tags-metadata</module>-->
     <module>pipeline-model-api</module>
     <module>pipeline-model-definition</module>
     <!--<module>pipeline-model-extensions</module>-->
