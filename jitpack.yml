@@ -5,6 +5,6 @@ before_install:
 jdk:
   - openjdk17
 
-scripts:
-  build:
-    - mvn clean install -DskipTests -X
+install:
+  - echo "Running a custom install command"
+  - mvn clean install -DskipTests -X
