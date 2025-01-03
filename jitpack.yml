@@ -5,6 +5,6 @@ before_install:
 jdk:
   - openjdk17
 
-build:
-  commands:
-    - mvn clean package -DskipTests
+scripts:
+  build:
+    - mvn clean install -DskipTests -X
