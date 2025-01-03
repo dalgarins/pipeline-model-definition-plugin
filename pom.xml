@@ -118,16 +118,14 @@
             </execution>
           </executions>
         </plugin>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>3.13.0</version>
+        </plugin>
       </plugins>
     </pluginManagement>
     <plugins>
-      <plugin>
-        <artifactId>maven-release-plugin</artifactId>
-        <configuration>
-          <!-- keep the tag names aligned with previous releases -->
-          <tagNameFormat>pipeline-model-definition-2.2218.v56d0cda_37c72</tagNameFormat>
-        </configuration>
-      </plugin>
     </plugins>
   </build>
 
